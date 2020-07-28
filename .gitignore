@@ -1,0 +1,6 @@
+node_modules
+config
+# The following folder or files are non-related to the production, only for study purpose
+playground
+.editorconfig
+mongodb.js
